@@ -18,7 +18,6 @@ namespace PatronObserver.Models
             this.PedidoID = PedidoID;
             this.NuevoEstado = NuevoEstado;
             this.Cuando = Cuando;
-
         }
     }
 }
