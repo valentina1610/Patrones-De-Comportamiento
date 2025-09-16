@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PatronObserver")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PatronCommand")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("PatronObserver")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PatronObserver")]
+[assembly: System.Reflection.AssemblyProductAttribute("PatronCommand")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PatronCommand")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
