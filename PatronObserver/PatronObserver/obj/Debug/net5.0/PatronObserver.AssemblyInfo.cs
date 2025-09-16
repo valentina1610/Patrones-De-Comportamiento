@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatronObserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a36cc1251306fa4a87a15a5671b85eadf247ffc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e1ca899512ab8bb595926be3a5c5e74b797ce9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PatronObserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatronObserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

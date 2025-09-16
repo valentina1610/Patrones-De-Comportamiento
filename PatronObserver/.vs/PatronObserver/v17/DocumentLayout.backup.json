@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\models\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\models\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\models\\pedidochangedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\models\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\models\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\observadores\\notificadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\observadores\\notificadorcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\observadores\\panellogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\observadores\\panellogistica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|c:\\users\\gc\\source\\repos\\guia patrones de comportamiento\\patronobserver\\patronobserver\\observadores\\auditoriapedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE3A29D5-3968-4272-8844-3F3E260D5953}|PatronObserver\\PatronObserver.csproj|solutionrelative:patronobserver\\observadores\\auditoriapedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PedidoService.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\PedidoService.cs",
               "RelativeDocumentMoniker": "PatronObserver\\Models\\PedidoService.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\PedidoService.cs",
-              "RelativeToolTip": "PatronObserver\\Models\\PedidoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\PedidoService.cs*",
+              "RelativeToolTip": "PatronObserver\\Models\\PedidoService.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T17:48:50.052Z",
+              "WhenOpened": "2025-09-16T17:22:53.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Program.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Program.cs*",
+              "RelativeToolTip": "PatronObserver\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:32:18.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EstadoPedido.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\EstadoPedido.cs",
-              "RelativeDocumentMoniker": "PatronObserver\\Models\\EstadoPedido.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\EstadoPedido.cs",
-              "RelativeToolTip": "PatronObserver\\Models\\EstadoPedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T17:27:12.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "PedidoChangedEventArgs.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\PedidoChangedEventArgs.cs",
               "RelativeDocumentMoniker": "PatronObserver\\Models\\PedidoChangedEventArgs.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Models\\PedidoChangedEventArgs.cs",
               "RelativeToolTip": "PatronObserver\\Models\\PedidoChangedEventArgs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T17:01:30.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Program.cs",
-              "RelativeDocumentMoniker": "PatronObserver\\Program.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Program.cs",
-              "RelativeToolTip": "PatronObserver\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PanelLogistica.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Observadores\\PanelLogistica.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Observadores\\PanelLogistica.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Observadores\\PanelLogistica.cs",
+              "RelativeToolTip": "PatronObserver\\Observadores\\PanelLogistica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:32:18.516Z",
+              "WhenOpened": "2025-09-16T17:56:17.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificadorCliente.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Observadores\\NotificadorCliente.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Observadores\\NotificadorCliente.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Observadores\\NotificadorCliente.cs",
+              "RelativeToolTip": "PatronObserver\\Observadores\\NotificadorCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:37:33.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditoriaPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Observadores\\AuditoriaPedidos.cs",
+              "RelativeDocumentMoniker": "PatronObserver\\Observadores\\AuditoriaPedidos.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\guia patrones de comportamiento\\PatronObserver\\PatronObserver\\Observadores\\AuditoriaPedidos.cs",
+              "RelativeToolTip": "PatronObserver\\Observadores\\AuditoriaPedidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:41:18.601Z",
               "EditorCaption": ""
             }
           ]
