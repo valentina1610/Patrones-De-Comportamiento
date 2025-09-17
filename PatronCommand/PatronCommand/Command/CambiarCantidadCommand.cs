@@ -30,7 +30,6 @@ namespace PatronCommand.Command
         {
             _item.Cantidad = _cantidadAnterior;
             Console.WriteLine($"Cantidad de {_item.Nombre} cambiada nuevamente a {_cantidadAnterior}.");
-
         }
     }
 }

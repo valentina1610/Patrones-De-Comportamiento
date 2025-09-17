@@ -96,10 +96,11 @@ namespace PatronCommand
 
                             var promoItems = new List<ICommand>
                             {
-                                new AgregarItemCommand(carrito, itemCafe),
-                                new AgregarItemCommand(carrito, itemMedialuna),
-                                new CambiarCantidadCommand(carrito, itemCafe, 2) // <-- usa el mismo objeto
+                                 new AgregarItemCommand(carrito, itemCafe),
+                                 new AgregarItemCommand(carrito, itemMedialuna),
+                                 new CambiarCantidadCommand(carrito, itemCafe, 2)
                             };
+ 
                             var promoMacro = new MacroCommand(promoItems);
                             invoker.Run(promoMacro);
                             break;

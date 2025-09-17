@@ -8,23 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gc\\.nuget\\packages\\": {},
+    "C:\\Users\\idra7\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
+      "projectUniqueName": "C:\\Users\\idra7\\Downloads\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
       "projectName": "PatronCommand",
-      "projectPath": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
-      "packagesPath": "C:\\Users\\gc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\obj\\",
+      "projectPath": "C:\\Users\\idra7\\Downloads\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
+      "packagesPath": "C:\\Users\\idra7\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\idra7\\Downloads\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\idra7\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -45,13 +45,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net5.0": {
@@ -62,8 +56,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -72,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

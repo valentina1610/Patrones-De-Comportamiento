@@ -12,6 +12,11 @@ namespace PatronCommand
 
         public void Agregar(Item item)
         {
+            if (item.Cantidad <= 0)
+            {
+                Console.WriteLine("[ERROR]: No se agrego al carrito, la cantidad tiene que ser mayor a 0!");
+                return;
+            }
             if (!_items.ContainsKey(item.Sku))
             {
                 _items[item.Sku] = item;
@@ -36,6 +41,11 @@ namespace PatronCommand
         }
         public void CambiarCantidad(Item item, int nuevaCantidad)
         {
+            if (nuevaCantidad <= 0)
+            {
+                Console.WriteLine("[ERROR]: La cantidad nueva tiene que ser mayor a 0!");
+                return;
+            }
             if (!_items.ContainsKey(item.Sku))
             {
                 _items[item.Sku].Cantidad = nuevaCantidad;
