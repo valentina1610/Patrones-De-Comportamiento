@@ -46,15 +46,20 @@ namespace PatronCommand
                 Console.WriteLine($"[ERROR]: {item.Nombre} NO agregado al carrito.");
             }
         }
-        public void Total()
+        public double Total()
         {
             Console.WriteLine("=== CARRITO ACTUAL ===");
             int cont = 0;
             foreach (var i in _items.Values)
             {
-                Console.WriteLine($"Item nro {cont+1}");
+                Console.WriteLine($"Item nro {cont + 1}");
                 Console.WriteLine($"Nombre: {i.Nombre}, Sku: {i.Sku}, Precio: {i.Precio}, Cantidad: {i.Cantidad}");
+                cont++; // <--- importante, sumamos el contador
             }
+
+            Console.WriteLine();
+            Console.WriteLine("TOTAL DE TODO:");
+            return _items.Values.Sum(i => i.Precio * i.Cantidad);
         }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.exe
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.deps.json
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.runtimeconfig.json
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.runtimeconfig.dev.json
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.dll
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\bin\Debug\net5.0\PatronCommand.pdb
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.csproj.AssemblyReference.cache
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.AssemblyInfoInputs.cache
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.AssemblyInfo.cs
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.csproj.CoreCompileInputs.cache
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.sourcelink.json
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.dll
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\refint\PatronCommand.dll
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.pdb
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\PatronCommand.genruntimeconfig.cache
+C:\Users\gc\source\repos\Patrones-De-Comportamiento\PatronCommand\PatronCommand\obj\Debug\net5.0\ref\PatronCommand.dll

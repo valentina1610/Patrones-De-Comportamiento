@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8svZwu5xLt85Z54+WzOg0PXOXD5Ux3r0vMu6bfpQDBnbTSLyDkqXaH4fobbku3TkN3mz2PakQ9RMQHgJlDXYuA==",
+  "dgSpecHash": "fZLrgh7oeJE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\idra7\\Downloads\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
+  "projectFilePath": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

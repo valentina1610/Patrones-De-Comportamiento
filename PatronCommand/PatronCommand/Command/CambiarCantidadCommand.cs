@@ -8,20 +8,22 @@ namespace PatronCommand.Command
 {
     public class CambiarCantidadCommand : ICommand
     {
-        private int _cantidadNueva;
+        private readonly Carrito _carrito;
+        private readonly Item _item;
+        private readonly int _cantidadNueva;
         private int _cantidadAnterior;
-        private Item _item;
 
-        public CambiarCantidadCommand(int _cantidadNueva, int _cantidadAnterior, Item item)
+        public CambiarCantidadCommand(Carrito carrito, Item item, int cantidadNueva)
         {
-            this._cantidadNueva = _cantidadNueva;
-            this._cantidadAnterior = _cantidadAnterior;
+            this._carrito = carrito;
             this._item = item;
+            this._cantidadNueva = cantidadNueva;
         }
         public void Execute()
         {
             _cantidadAnterior = _item.Cantidad;
             _item.Cantidad = _cantidadNueva;
+            _carrito.CambiarCantidad(_item, _cantidadNueva);
             Console.WriteLine($"Cantidad de {_item.Nombre} cambiada a {_cantidadNueva}.");
         }
         public void Undo()
