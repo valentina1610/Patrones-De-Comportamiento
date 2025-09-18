@@ -13,11 +13,13 @@ namespace PatronCommand.Invoker
         // Guarda pilas de comandos ejecutados y comandos deshechos.
         private readonly Stack<ICommand> _undo = new();
         private readonly Stack<ICommand> _redo = new();
+        private List<ICommand> _historialReplay = new();
         public void Run(ICommand cmd)
         {
             cmd.Execute();
             _undo.Push(cmd);
             _redo.Clear();
+            _historialReplay.Add(cmd);
         }
         public void Undo()
         {
@@ -32,6 +34,14 @@ namespace PatronCommand.Invoker
             var cmd = _redo.Pop();
             cmd.Execute();
             _undo.Push(cmd);
+        }
+        public void Replay()
+        {
+            foreach (var cmd in _historialReplay)
+            {
+                Console.WriteLine($"Comando ejecutado: {cmd.GetType().Name}");
+
+            }
         }
     }
 

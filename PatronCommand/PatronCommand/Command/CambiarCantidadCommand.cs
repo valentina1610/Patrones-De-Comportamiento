@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PatronCommand.Singleton;
 
 namespace PatronCommand.Command
 {
@@ -24,12 +25,12 @@ namespace PatronCommand.Command
             _cantidadAnterior = _item.Cantidad;
             _item.Cantidad = _cantidadNueva;
             _carrito.CambiarCantidad(_item, _cantidadNueva);
-            Console.WriteLine($"Cantidad de {_item.Nombre} cambiada a {_cantidadNueva}.");
+            Logger.Instance.Log($"Cantidad de {_item.Nombre} cambiada a {_cantidadNueva}.");
         }
         public void Undo()
         {
             _item.Cantidad = _cantidadAnterior;
-            Console.WriteLine($"Cantidad de {_item.Nombre} cambiada nuevamente a {_cantidadAnterior}.");
+            Logger.Instance.Log($"Cantidad de {_item.Nombre} cambiada nuevamente a {_cantidadAnterior}.");
         }
     }
 }

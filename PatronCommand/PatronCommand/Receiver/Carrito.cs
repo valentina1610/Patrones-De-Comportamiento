@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PatronCommand.Singleton;
 
 namespace PatronCommand
 {
@@ -14,17 +15,17 @@ namespace PatronCommand
         {
             if (item.Cantidad <= 0)
             {
-                Console.WriteLine("[ERROR]: No se agrego al carrito, la cantidad tiene que ser mayor a 0!");
+                Logger.Instance.Log("[ERROR]: No se agrego al carrito, la cantidad tiene que ser mayor a 0!");
                 return;
             }
             if (!_items.ContainsKey(item.Sku))
             {
                 _items[item.Sku] = item;
-                Console.WriteLine($"{item.Nombre} agregado correctamente !");
+                Logger.Instance.Log($"{item.Nombre} agregado correctamente !");
             }
             else
             {
-                Console.WriteLine($"[ERROR]: {item.Nombre} ya agregado al carrito.");
+                Logger.Instance.Log($"[ERROR]: {item.Nombre} ya agregado al carrito.");
             }
         }
         public void Quitar(Item item)
@@ -32,28 +33,28 @@ namespace PatronCommand
             if (_items.ContainsKey(item.Sku))
             {
                 _items.Remove(item.Sku);
-                Console.WriteLine($"{item.Nombre} Eliminado correctamente !");
+                Logger.Instance.Log($"{item.Nombre} Eliminado correctamente !");
             }
             else
             {
-                Console.WriteLine($"[ERROR]: {item.Nombre}  NO agregado al carrito.");
+                Logger.Instance.Log($"[ERROR]: {item.Nombre}  NO agregado al carrito.");
             }
         }
         public void CambiarCantidad(Item item, int nuevaCantidad)
         {
             if (nuevaCantidad <= 0)
             {
-                Console.WriteLine("[ERROR]: La cantidad nueva tiene que ser mayor a 0!");
+                Logger.Instance.Log("[ERROR]: La cantidad nueva tiene que ser mayor a 0!");
                 return;
             }
             if (!_items.ContainsKey(item.Sku))
             {
                 _items[item.Sku].Cantidad = nuevaCantidad;
-                Console.WriteLine($"Cantidad de {item.Nombre} cambiada correctamente !");
+                Logger.Instance.Log($"Cantidad de {item.Nombre} cambiada correctamente !");
             }
             else
             {
-                Console.WriteLine($"[ERROR]: {item.Nombre} NO agregado al carrito.");
+                Logger.Instance.Log($"[ERROR]: {item.Nombre} NO agregado al carrito.");
             }
         }
         public double Total()

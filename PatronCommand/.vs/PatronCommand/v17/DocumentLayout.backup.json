@@ -3,31 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\receiver\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\receiver\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\command\\cambiarcantidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\command\\cambiarcantidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\command\\quitaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\command\\quitaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\command\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\command\\cambiarcantidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\command\\cambiarcantidadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\command\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\invoker\\editorinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\invoker\\editorinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\producto\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\producto\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\command\\agregaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\command\\agregaritemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\singleton\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|c:\\users\\gc\\source\\repos\\patrones-de-comportamiento\\patroncommand\\patroncommand\\patroncommand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FACF2D56-BAA3-4214-8097-4B8EB5C85A33}|PatronCommand\\PatronCommand.csproj|solutionrelative:patroncommand\\patroncommand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,30 +57,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MacroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\MacroCommand.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Command\\MacroCommand.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\MacroCommand.cs",
+              "RelativeToolTip": "PatronCommand\\Command\\MacroCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:18:20.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "QuitarItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\QuitarItemCommand.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Command\\QuitarItemCommand.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\QuitarItemCommand.cs",
+              "RelativeToolTip": "PatronCommand\\Command\\QuitarItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:01:30.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Receiver\\Carrito.cs",
               "RelativeDocumentMoniker": "PatronCommand\\Receiver\\Carrito.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Receiver\\Carrito.cs",
               "RelativeToolTip": "PatronCommand\\Receiver\\Carrito.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowD4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T17:17:07.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CambiarCantidadCommand.cs",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\CambiarCantidadCommand.cs",
               "RelativeDocumentMoniker": "PatronCommand\\Command\\CambiarCantidadCommand.cs",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\CambiarCantidadCommand.cs",
               "RelativeToolTip": "PatronCommand\\Command\\CambiarCantidadCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-17T16:45:29.509Z",
               "EditorCaption": ""
@@ -68,6 +114,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\ICommand.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Command\\ICommand.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\ICommand.cs",
+              "RelativeToolTip": "PatronCommand\\Command\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:01:25.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Program.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Program.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Program.cs",
+              "RelativeToolTip": "PatronCommand\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T16:43:34.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgregarItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\AgregarItemCommand.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Command\\AgregarItemCommand.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\AgregarItemCommand.cs",
+              "RelativeToolTip": "PatronCommand\\Command\\AgregarItemCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:01:23.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditorInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Invoker\\EditorInvoker.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Invoker\\EditorInvoker.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Invoker\\EditorInvoker.cs",
+              "RelativeToolTip": "PatronCommand\\Invoker\\EditorInvoker.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:37:12.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Producto\\Item.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Producto\\Item.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Producto\\Item.cs",
+              "RelativeToolTip": "PatronCommand\\Producto\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:01:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Singleton\\Logger.cs",
+              "RelativeDocumentMoniker": "PatronCommand\\Singleton\\Logger.cs",
+              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Singleton\\Logger.cs",
+              "RelativeToolTip": "PatronCommand\\Singleton\\Logger.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:42:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -75,52 +199,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AgIAAAoAAAAAAAAAAAAEwB8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-09-17T16:43:53.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T16:43:53.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Program.cs",
-              "RelativeDocumentMoniker": "PatronCommand\\Program.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Program.cs",
-              "RelativeToolTip": "PatronCommand\\Program.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAQwG8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T16:43:34.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MacroCommand.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\MacroCommand.cs",
-              "RelativeDocumentMoniker": "PatronCommand\\Command\\MacroCommand.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Command\\MacroCommand.cs",
-              "RelativeToolTip": "PatronCommand\\Command\\MacroCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T16:18:20.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditorInvoker.cs",
-              "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Invoker\\EditorInvoker.cs",
-              "RelativeDocumentMoniker": "PatronCommand\\Invoker\\EditorInvoker.cs",
-              "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\Invoker\\EditorInvoker.cs",
-              "RelativeToolTip": "PatronCommand\\Invoker\\EditorInvoker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T15:37:12.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PatronCommand",
+              "DocumentIndex": 10,
+              "Title": "PatronCommand.csproj",
               "DocumentMoniker": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",
               "RelativeDocumentMoniker": "PatronCommand\\PatronCommand.csproj",
               "ToolTip": "C:\\Users\\gc\\source\\repos\\Patrones-De-Comportamiento\\PatronCommand\\PatronCommand\\PatronCommand.csproj",

@@ -2,6 +2,7 @@
 using PatronCommand.Command;
 using PatronCommand.Invoker;
 using System.Collections.Generic;
+using PatronCommand.Singleton;
 
 namespace PatronCommand
 {
@@ -22,6 +23,8 @@ namespace PatronCommand
                 Console.WriteLine("5) Redo");
                 Console.WriteLine("6) Total");
                 Console.WriteLine("7) Promo (Macro)");
+                Console.WriteLine("8) Historial de Logs");
+                Console.WriteLine("9. Replay historial");
                 Console.WriteLine("0) Salir");
                 Console.Write("Opción: ");
 
@@ -105,7 +108,16 @@ namespace PatronCommand
                             invoker.Run(promoMacro);
                             break;
                         }
-                       
+                    case "8":
+                        {
+                            Logger.Instance.ShowLogs();
+                            break;
+                        }
+                    case "9":
+                        {
+                            invoker.Replay();
+                            break;
+                        }
 
                     case "0": return;
                 }
